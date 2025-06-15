@@ -57,4 +57,4 @@ As a personal milestone in my Python learning journey.
 
 📝 Author
 Made with 💻 by [Hareem Zafar]
-Feel free to connect with me on LinkedIn or check out more of my work!
+Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/hareem-zafar/) or check out more of my work!
